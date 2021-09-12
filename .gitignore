@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+
+# personal track sheet
+flow.md
