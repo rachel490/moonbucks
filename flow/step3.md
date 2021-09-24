@@ -53,3 +53,7 @@
 - [ ] 중복되는 메뉴는 추가할 수 없다.
 
 baseUrl = `http://localhost:3000`
+
+----
+
+## Velog에 Fetch API post 올리기
